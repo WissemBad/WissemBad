@@ -17,11 +17,11 @@
 ---
 
 <h2 align="center" style="font-size: 2.5em; color: #4CAF50;">🚀 About Me</h2>
-<p align="center" style="font-size: 1.2em;">
-  - 🔭 I’m currently working as **Student Engineer**  
-  - 📫 How to reach me: **contact@wissem.live**  
-  - ⚡ Fun fact: **I love coffee ☕ and coding 💻**
-</p>
+<ul align="center" style="font-size: 1.2em; list-style-type: none; padding: 0;">
+  <li>🔭 I’m currently working as <strong>Student Engineer</strong></li>
+  <li>📫 How to reach me: <strong>contact@wissem.live</strong></li>
+  <li>⚡ Fun fact: <strong>I love coffee ☕ and coding 💻</strong></li>
+</ul>
 
 <p align="center" style="font-size: 1.2em;">
   🎧 Music | 🎮 Gaming | 🚀 Coding
@@ -80,5 +80,5 @@
 ---
 
 <p align="center">
-  <small style="font-size: 0.8em; color: #777;">💻 Made with ❤️ by Wissem</small>
+  <small style="font-size: 0.3em; color: #777;">💻 Made with ❤️ by Wissem</small>
 </p>
