@@ -1,14 +1,15 @@
 <h1 align="center" style="font-size: 3em; color: #4CAF50;">Hi 👋, I'm Wissem</h1>
 <h3 align="center" style="font-size: 1.8em; color: #555;">A developer from France 🌍</h3>
-<p align="center">
-  <a href="https://pro.wissem.live/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Site-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Visit My Site" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WissemBad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/WissemBad?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+  <a href="https://pro.wissem.live/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Site-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Visit My Site" />
+  </a>
 </p>
 
 <p align="center">
