@@ -9,20 +9,42 @@
 ---
 
 ## 🚀 **About Me**
-- 🔭 I’m currently working on **[Your Project Name](Project Link)**
-- 🌱 I’m learning **Vue.js, Tailwind CSS, Node.js**
-- 💬 Ask me about **JavaScript, Vue, Tailwind**
-- 📫 How to reach me **your.email@example.com**
+- 🔭 I’m currently working as **Student Engineer**
+- 📫 How to reach me **contact@wissem.live**
 - ⚡ Fun fact: **I love coffee ☕ and coding 💻**
 
 ---
 
 ## 🛠 **Tech Stack**
-<p align="left">
+### 💻 Langages
+<p align="center">
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="center">
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://discord.js.org/" target="_blank"><img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" /></a>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+</p>
+
+### 🛠 **Tools**
+<p align="center">
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" /></a>
+  <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDE" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /></a>
+  <a href="https://coolify.io/" target="_blank"><img src="https://img.shields.io/badge/Coolify-6C5CE7?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" /></a>
 </p>
 
 ---
@@ -43,16 +65,22 @@
 ---
 
 ## 📫 **Connect with me**
-<p align="left">
-  <a href="https://twitter.com/WissemBad" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://github.com/WissemBad" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <a href="https://twitter.com/WissemBad" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/WissemBad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-Wissem.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
+
 
 ---
 
 ## 🎵 **Now Playing**
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=3fca35159cfb4055&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=au3p159a9njz6tz9opgv7kpt4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 ---
