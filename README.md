@@ -52,7 +52,7 @@
 
 ## 🎵 **Now Playing**
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=au3p159a9njz6tz9opgv7kpt4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=3fca35159cfb4055&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
 </p>
 
 ---
