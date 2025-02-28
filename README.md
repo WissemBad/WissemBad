@@ -6,24 +6,45 @@
   <img src="https://img.shields.io/github/followers/WissemBad?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/WissemBad" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/WissemBad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-Wissem.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=au3p159a9njz6tz9opgv7kpt4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+</p>
+
 ---
 
-## 🚀 **About Me**
-- 🔭 I’m currently working as **Student Engineer**
-- 📫 How to reach me **contact@wissem.live**
-- ⚡ Fun fact: **I love coffee ☕ and coding 💻**
+## 🚀 **About Me**  
+<p align="center">
+  - 🔭 I’m currently working as **Student Engineer**  
+  - 📫 How to reach me: **contact@wissem.live**  
+  - ⚡ Fun fact: **I love coffee ☕ and coding 💻**
+</p>
+
+<p align="center">
+  🎧 Music | 🎮 Gaming | 🚀 Coding
+</p>
 
 ---
 
 ## 🛠 **Tech Stack**
-### 💻 Langages
+
+### 💻 **Langages**
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🚀 **Frameworks & Libraries**
 <p align="center">
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
@@ -31,7 +52,7 @@
   <a href="https://discord.js.org/" target="_blank"><img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" /></a>
 </p>
 
-### 🗄️ Databases
+### 🗄️ **Databases**
 <p align="center">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /></a>
@@ -64,31 +85,6 @@
 
 ---
 
-## 📫 **Connect with me**
 <p align="center">
-  <a href="https://twitter.com/WissemBad" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/WissemBad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-Wissem.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <small>💻 Made with ❤️ by Wissem</small>
 </p>
-
-
----
-
-## 🎵 **Now Playing**
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=au3p159a9njz6tz9opgv7kpt4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-</p>
-
----
-
-## 🎮 **What I Do for Fun**
-🎧 Music | 🎮 Gaming | 🚀 Coding
-
----
-
-💻 **Made with ❤️ by Wissem**  
-
