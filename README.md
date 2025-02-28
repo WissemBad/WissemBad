@@ -6,8 +6,17 @@
   <img src="https://img.shields.io/github/followers/WissemBad?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+---
+
+<h2 align="center" style="font-size: 2em; color: #4CAF50;">🚀 Check out my Professional Website!</h2>
+<p align="center" style="font-size: 1.2em;">
+  Want to know more about my projects, services, and professional work? Visit my <a href="https://pro.wissem.live/" target="_blank" style="color: #4CAF50; text-decoration: none;">professional website</a> for more details!
+</p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-Wissem.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://pro.wissem.live/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Site-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Visit My Site" />
+  </a>
 </p>
 
 <p align="center">
