@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3em; color: #4CAF50;">Hi 👋,<br>I'm Wissem.</h1>
-<h4 align="center" style="font-size: 1.8em; color: #555;">A developer from France</h4>
+<h3 align="center" style="font-size: 1.8em; color: #555;">A developer from France</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WissemBad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -58,7 +58,7 @@
 <h3 align="center" style="font-size: 1.5em; color: #555;">🧰 · Tools</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Suite" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" /></a>
   <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDE" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /></a>
   <a href="https://coolify.io/" target="_blank"><img src="https://img.shields.io/badge/Coolify-6C5CE7?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" /></a>
