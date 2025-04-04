@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://pro.wissem.live/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Site-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Visit My Site" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Site-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Visit My Site [WIP]" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 <h2 align="center" style="font-size: 2.5em; color: #4CAF50;">🚀 · About Me</h2>
 <ul align="center" style="font-size: 1.2em; list-style-type: none; padding: 0;">
   <li>🔭 I’m currently working as <strong>Student Engineer</strong></li>
-  <li>📫 How to reach me: <strong>contact@wissem.live</strong></li>
+  <li>📫 Reach me at Dicord : <strong>@wissem.</strong></li>
   <li>⚡ Fun fact: <strong>I love coffee ☕ and coding 💻</strong></li>
 </ul>
 
