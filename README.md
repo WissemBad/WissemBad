@@ -21,7 +21,8 @@
 <h2 align="center" style="font-size: 2.5em; color: #4CAF50;">🚀 · About Me</h2>
 <ul align="center" style="font-size: 1.2em; list-style-type: none; padding: 0;">
   <li>🔭 I’m currently working as <strong>Student Engineer</strong></li>
-  <li>📫 Reach me at Dicord : <strong>@wissem.</strong></li>
+  <li>📫 Reach me on Discord: <strong>@wissem.</strong></li>
+  <li>✉️ Or by email: <a href="mailto:contact@wissem.pro"><strong>contact@wissem.pro</strong></a></li>
   <li>⚡ Fun fact: <strong>I love coffee ☕ and coding 💻</strong></li>
 </ul>
 
