@@ -1,87 +1,58 @@
-<h1 align="center" style="font-size: 3em; color: #4CAF50;">Hi 👋,<br>I'm Wissem.</h1>
-<h3 align="center" style="font-size: 1.8em; color: #555;">A developer from France</h3>
+<h1 align="center">
+  Hey, I'm Wissem.<br>
+<sub>Student Engineer · Full-stack · Software Systems</sub><br>
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WissemBad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/WissemBad?label=Followers&style=social" alt="GitHub Followers" />
-</p>
 
 <p align="center">
   <a href="https://www.wissem.pro/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Site-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Visit My Site" />
+    <img src="https://img.shields.io/badge/Website-www.wissem.pro-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:contact@wissem.pro">
+    <img src="https://img.shields.io/badge/Email-contact%40wissem.pro-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-@wissem.-8B5CF6?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=au3p159a9njz6tz9opgv7kpt4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-</p>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #4CAF50;">🚀 · About Me</h2>
-<ul align="center" style="font-size: 1.2em; list-style-type: none; padding: 0;">
-  <li>🔭 I’m currently working as <strong>Student Engineer</strong></li>
-  <li>📫 Reach me on Discord : <strong>@wissem.</strong></li>
-  <li>✉️ Or by email : <a href="mailto:contact@wissem.pro"><strong>contact@wissem.pro</strong></a></li>
-  <li>⚡ Fun fact: <strong>I love coffee ☕ and coding 💻</strong></li>
-</ul>
-
-<p align="center" style="font-size: 1.2em;">
-  🎧 Music | 🎮 Gaming | 🚀 Coding
-</p>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #4CAF50;">🛠 · Tech Stack</h2>
-
-<h3 align="center" style="font-size: 1.5em; color: #555;">💻 · Langages</h3>
-<p align="center">
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-</p>
-
-<h3 align="center" style="font-size: 1.5em; color: #555;">🚀 · Frameworks & Libraries</h3>
-<p align="center">
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="https://discord.js.org/" target="_blank"><img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" /></a>
-</p>
-
-<h3 align="center" style="font-size: 1.5em; color: #555;">🗄️ · Databases</h3>
-<p align="center">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-</p>
-
-<h3 align="center" style="font-size: 1.5em; color: #555;">🧰 · Tools</h3>
-<p align="center">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" /></a>
-  <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDE" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /></a>
-  <a href="https://coolify.io/" target="_blank"><img src="https://img.shields.io/badge/Coolify-6C5CE7?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" /></a>
-</p>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #4CAF50;">📊 · GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WissemBad&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WissemBad&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WissemBad&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/WissemBad?label=followers&style=flat&color=8B5CF6" />
+  <img src="https://komarev.com/ghpvc/?username=WissemBad&label=views&color=8B5CF6&style=flat" />
 </p>
 
 ---
 
 <p align="center">
-  <small style="font-size: 0.3em; color: #777;">💻 Made with ❤️ by Wissem</small>
+  <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-8B5CF6?style=flat&logo=c&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-8B5CF6?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-8B5CF6?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-8B5CF6?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-8B5CF6?style=flat&logo=nuxt&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-8B5CF6?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-8B5CF6?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-8B5CF6?style=flat&logo=prisma&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-8B5CF6?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-8B5CF6?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-8B5CF6?style=flat&logo=postman&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=WissemBad&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WissemBad&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6" />
 </p>
