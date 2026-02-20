@@ -53,6 +53,5 @@
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=WissemBad&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WissemBad&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WissemBad&theme=shadow-purple&hide_border=true&mode=weekly&card_width=600&card_height=200" alt="GitHub Streak" />
 </p>
