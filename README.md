@@ -6,17 +6,17 @@
   <h1>Hi, I'm Wissem.</h1>
   <p><strong>Student Engineer · Full-Stack Developer · Software Systems</strong><br />
   Building useful software, from individual products to shared foundations.</p>
+
+  <p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/WissemBad?label=followers&style=flat&color=8B5CF6" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=WissemBad&label=views&color=8B5CF6&style=flat" />
+  </p>
   <p>
     <a href="https://www.wissem.pro/"><img alt="Website" src="https://img.shields.io/badge/Website-www.wissem.pro-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://github.com/Wissem-Industries"><img alt="Wissem Industries" src="https://img.shields.io/badge/Organization-Wissem%20Industries-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="mailto:contact@wissem.pro"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40wissem.pro-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
-
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/WissemBad?label=followers&style=flat&color=8B5CF6" />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=WissemBad&label=views&color=8B5CF6&style=flat" />
-</p>
 
 ---
 
