@@ -1,16 +1,16 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-violet-dark.svg" />
-    <img alt="Wissem W logo" width="76" src="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-violet.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-white.svg" />
+    <img alt="Wissem W logo" width="76" src="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-black.svg" />
   </picture>
   <h1>Hi, I'm Wissem.</h1>
   <p><strong>Student Engineer · Full-Stack Developer · Software Systems</strong><br />
   Building useful software, from individual products to shared foundations.</p>
 
   <p>
-    <a href="https://www.wissem.pro/"><img alt="Website" src="https://img.shields.io/badge/Website-www.wissem.pro-8E51FF?style=for-the-badge" /></a>
+    <a href="https://www.wissem.pro/"><img alt="Website" src="https://img.shields.io/badge/Website-www.wissem.pro-8E51FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDIyQzYuNDc3IDIyIDIgMTcuNTIzIDIgMTJTNi40NzcgMiAxMiAyczEwIDQuNDc3IDEwIDEwcy00LjQ3NyAxMC0xMCAxMG0tMi4yOS0yLjMzM0ExNy45IDE3LjkgMCAwIDEgOC4wMjcgMTNINC4wNjJhOC4wMSA4LjAxIDAgMCAwIDUuNjQ4IDYuNjY3TTEwLjAzIDEzYy4xNTEgMi40MzkuODQ4IDQuNzMgMS45NyA2Ljc1MkExNS45IDE1LjkgMCAwIDAgMTMuOTcgMTN6bTkuOTA4IDBoLTMuOTY1YTE3LjkgMTcuOSAwIDAgMS0xLjY4MyA2LjY2N0E4LjAxIDguMDEgMCAwIDAgMTkuOTM4IDEzTTQuMDYyIDExaDMuOTY1QTE3LjkgMTcuOSAwIDAgMSA5LjcxIDQuMzMzQTguMDEgOC4wMSAwIDAgMCA0LjA2MiAxMW01Ljk2OSAwaDMuOTM4QTE1LjkgMTUuOSAwIDAgMCAxMiA0LjI0OEExNS45IDE1LjkgMCAwIDAgMTAuMDMgMTFtNC4yNTktNi42NjdBMTcuOSAxNy45IDAgMCAxIDE1Ljk3MyAxMWgzLjk2NWE4LjAxIDguMDEgMCAwIDAtNS42NDgtNi42NjciLz48L3N2Zz4%3D" /></a>
     <a href="https://github.com/Wissem-Industries"><img alt="Wissem Industries" src="https://img.shields.io/badge/Organization-Wissem%20Industries-8E51FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:contact@wissem.pro"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40wissem.pro-8E51FF?style=for-the-badge" /></a>
+    <a href="mailto:contact@wissem.pro"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40wissem.pro-8E51FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgM2gxOGExIDEgMCAwIDEgMSAxdjE2YTEgMSAwIDAgMS0xIDFIM2ExIDEgMCAwIDEtMS0xVjRhMSAxIDAgMCAxIDEtMW0xNyA0LjIzOGwtNy45MjggNy4xTDQgNy4yMTZWMTloMTZ6TTQuNTExIDVsNy41NSA2LjY2MkwxOS41MDIgNXoiLz48L3N2Zz4%3D" /></a>
   </p>
 </div>
 
