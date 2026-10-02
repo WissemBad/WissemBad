@@ -52,4 +52,5 @@
 <div align="center">
   <h2>More from Wissem</h2>
   <a href="https://github.com/Wissem-Industries"><img alt="Visit Wissem Industries on GitHub" src="https://img.shields.io/badge/Visit-Wissem%20Industries-8E51FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.wissem.pro/en/cv"><img alt="View my resume" src="https://img.shields.io/badge/View-My%20resume-8E51FF?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </div>
