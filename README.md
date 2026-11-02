@@ -4,7 +4,7 @@
     <img alt="Wissem W logo" width="76" src="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-black.svg" />
   </picture>
   <h1>Hi, I'm Wissem.</h1>
-  <p><strong>Student Engineer · Full-Stack Developer · Software Systems</strong><br />
+  <p><strong>Student Engineer · Data, Security &amp; Software Systems</strong><br />
   Building useful software, from individual products to shared foundations.</p>
 
   <p>
@@ -44,10 +44,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WissemBad&theme=shadow-purple&hide_border=true&mode=weekly&card_width=600&card_height=200" alt="GitHub Streak" />
-</p>
 
 <div align="center">
   <h2>More from Wissem</h2>
