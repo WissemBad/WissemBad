@@ -4,12 +4,13 @@
     <img alt="Wissem W logo" width="76" src="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-black.svg" />
   </picture>
   <h1>Hi, I'm Wissem.</h1>
-  <p><strong>Student Engineer · Data, Security &amp; Software Systems</strong><br />
-  Building useful software, from individual products to shared foundations.</p>
+  <p><strong>Engineering student · Data &amp; cybersecurity</strong><br />
+  IMT Nord Europe · Looking for a 12 to 16-week internship from May 2027 (Lille · Paris area)</p>
 
   <p>
     <a href="https://www.wissem.pro/"><img alt="Website" src="https://img.shields.io/badge/Website-www.wissem.pro-8E51FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDIyQzYuNDc3IDIyIDIgMTcuNTIzIDIgMTJTNi40NzcgMiAxMiAyczEwIDQuNDc3IDEwIDEwcy00LjQ3NyAxMC0xMCAxMG0tMi4yOS0yLjMzM0ExNy45IDE3LjkgMCAwIDEgOC4wMjcgMTNINC4wNjJhOC4wMSA4LjAxIDAgMCAwIDUuNjQ4IDYuNjY3TTEwLjAzIDEzYy4xNTEgMi40MzkuODQ4IDQuNzMgMS45NyA2Ljc1MkExNS45IDE1LjkgMCAwIDAgMTMuOTcgMTN6bTkuOTA4IDBoLTMuOTY1YTE3LjkgMTcuOSAwIDAgMS0xLjY4MyA2LjY2N0E4LjAxIDguMDEgMCAwIDAgMTkuOTM4IDEzTTQuMDYyIDExaDMuOTY1QTE3LjkgMTcuOSAwIDAgMSA5LjcxIDQuMzMzQTguMDEgOC4wMSAwIDAgMCA0LjA2MiAxMW01Ljk2OSAwaDMuOTM4QTE1LjkgMTUuOSAwIDAgMCAxMiA0LjI0OEExNS45IDE1LjkgMCAwIDAgMTAuMDMgMTFtNC4yNTktNi42NjdBMTcuOSAxNy45IDAgMCAxIDE1Ljk3MyAxMWgzLjk2NWE4LjAxIDguMDEgMCAwIDAtNS42NDgtNi42NjciLz48L3N2Zz4%3D" /></a>
-    <a href="https://github.com/Wissem-Industries"><img alt="Wissem Industries" src="https://img.shields.io/badge/Organization-Wissem%20Industries-8E51FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/Wissem-Industries"><img alt="Wissem's Industries" src="https://img.shields.io/badge/Organization-Wissem%27s%20Industries-8E51FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/wissembadraoui"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-wissembadraoui-8E51FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDEyYTUgNSAwIDEgMCAwLTEwIDUgNSAwIDAgMCAwIDEwbS04IDEwYTggOCAwIDAgMSAxNiAweiIvPjwvc3ZnPg%3D%3D" /></a>
     <a href="mailto:contact@wissem.pro"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40wissem.pro-8E51FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgM2gxOGExIDEgMCAwIDEgMSAxdjE2YTEgMSAwIDAgMS0xIDFIM2ExIDEgMCAwIDEtMS0xVjRhMSAxIDAgMCAxIDEtMW0xNyA0LjIzOGwtNy45MjggNy4xTDQgNy4yMTZWMTloMTZ6TTQuNTExIDVsNy41NSA2LjY2MkwxOS41MDIgNXoiLz48L3N2Zz4%3D" /></a>
   </p>
 </div>
@@ -35,11 +36,20 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8E51FF?style=flat&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-8E51FF?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-8E51FF?style=flat&logo=prisma&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-8E51FF?style=flat&logo=sqlite&logoColor=white" />
+  <img alt="DuckDB" src="https://img.shields.io/badge/DuckDB-8E51FF?style=flat&logo=duckdb&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-8E51FF?style=flat&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-8E51FF?style=flat&logo=numpy&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-8E51FF?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-8E51FF?style=flat&logo=linux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-8E51FF?style=flat&logo=docker&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-8E51FF?style=flat&logo=grafana&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-8E51FF?style=flat&logo=postman&logoColor=white" />
 </p>
 
@@ -47,6 +57,6 @@
 
 <div align="center">
   <h2>More from Wissem</h2>
-  <a href="https://github.com/Wissem-Industries"><img alt="Visit Wissem Industries on GitHub" src="https://img.shields.io/badge/Visit-Wissem%20Industries-8E51FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Wissem-Industries"><img alt="Visit Wissem's Industries on GitHub" src="https://img.shields.io/badge/Visit-Wissem%27s%20Industries-8E51FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.wissem.pro/en/cv"><img alt="View my resume" src="https://img.shields.io/badge/View-My%20resume-8E51FF?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </div>
